@@ -1,0 +1,2 @@
+# Genericidad
+Ejemplo Genericidad
